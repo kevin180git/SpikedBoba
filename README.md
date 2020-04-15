@@ -1,5 +1,6 @@
 # Spiked Boba
-A fun, Asian-inspired drinking game
+A fun, Asian-inspired mobile drinking game
+
 
 ### Small image
 
@@ -18,6 +19,6 @@ Sorry it's kind of poopy right now. And empty looking. Trying to get all the req
 *   [Support](./pages/support.html) (Contact, Feedback, Suggestions)
 *   [Private Policy](./pages/privatePolicy.html) (Link to our private policy)
 
-If you like the app and want to buy me boba or something, my venmo is @KevinLeeHeavenly (don't judge me that was my old rapper name)! THANKS IN ADVANCE ily. Future state is also to set up Pateron or something. But we shall see if people even use my app lol. THANKS  
+If you like the app and want to buy me boba or something, my venmo is @KevinLeeHeavenly (don't judge me that was my old rapper name)! THANKS IN ADVANCE ILY. Totally not saying I'll hoe out for boba BUT if you leave a comment/suggestion I'll definitely see 👀 it. Future state is also to set up Pateron or something. But we shall see if people even use my app lol. THANKS  
 
 
