@@ -7,8 +7,8 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[support](./support.html).
-[Private Policy](./privatePolicy.html).
+[support](./pages/support.html).
+[Private Policy](./pages/privatePolicy.html).
 
 There should be whitespace between paragraphs.
 
