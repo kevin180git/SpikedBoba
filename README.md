@@ -1,4 +1,4 @@
-# Spiked Boba
+# Drunken Boba
 A fun, Asian-inspired mobile drinking game
 
 
@@ -7,6 +7,8 @@ A fun, Asian-inspired mobile drinking game
 # Thanks for checking out my website
 
 Sorry it's kind of poopy right now. And empty looking. Trying to get all the required links going so I can ship my app out. The goal is to come back later and make everything prettier. BUT If I don't I'm probably working to make the app better (Hopefully 😩). Anyways, thanks for visiting! Shoutout to my fans. And haters, if you hate me enough to come see this that's pretty cool too.
+
+Edit: The app was previously named "Spiked Boba" but Apple deemed it "objectionable" so now it is Drunken Boba. If you see Spiked Boba and you have objections, please send me feedback in the support link below. Thanks!
 
 ## Helpful Links
 
